@@ -1,0 +1,6 @@
+dataset source:
+
+
+for churn_train.csv
+
+https://www.kaggle.com/code/simgeerek/churn-prediction-using-machine-learning/notebook
