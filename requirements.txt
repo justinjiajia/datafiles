@@ -79,7 +79,6 @@ PySocks @ file:///D:/bld/pysocks_1661604991356/work
 python-dateutil==2.8.2
 pytz @ file:///C:/Windows/TEMP/abs_90eacd4e-8eff-491e-b26e-f707eba2cbe1ujvbhqz1/croots/recipe/pytz_1654762631027/work
 pywin32==304
-pywinpty @ file:///C:/ci_310/pywinpty_1644230983541/work/target/wheels/pywinpty-2.0.2-cp38-none-win_amd64.whl
 PyYAML==5.4.1
 pyzmq @ file:///C:/ci/pyzmq_1657616005830/work
 qtconsole @ file:///opt/conda/conda-bld/qtconsole_1649078897110/work
