@@ -1,0 +1,11 @@
+name: py38
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyter
+  - dash-bootstrap-components
+  - dash=2.6.0
+  - pandas
+prefix: C:\Users\justi\.conda\envs\py38
