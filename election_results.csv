@@ -1,0 +1,1058 @@
+state,statecode,district_code,cdid,candidate_name,party,winner,incumbent,votes,percent,p_per
+Alabama,01,01,0101,Carl,Republican,True,True,139854,0.842,0.842
+Alabama,01,01,0101,Remrey,Libertarian,False,False,26197,0.158,0.158
+Alabama,01,02,0102,Moore,Republican,True,True,137193,0.692,0.692
+Alabama,01,02,0102,Harvey-Hall,Democratic,False,False,57800,0.291,-0.291
+Alabama,01,02,0102,Realz,Libertarian,False,False,3380,0.017,0.017
+Alabama,01,03,0103,Rogers,Republican,True,True,135448,0.713,0.713
+Alabama,01,03,0103,Veasey,Democratic,False,False,47770,0.251,-0.251
+Alabama,01,03,0103,Bell,,False,False,3826,0.02,0.02
+Alabama,01,03,0103,Casson,Libertarian,False,False,3027,0.016,0.016
+Alabama,01,04,0104,Aderholt,Republican,True,True,164371,0.842,0.842
+Alabama,01,04,0104,Neighbors,Democratic,False,False,26628,0.136,-0.136
+Alabama,01,04,0104,Cochran,Libertarian,False,False,4294,0.022,0.022
+Alabama,01,05,0105,Strong,Republican,True,False,141988,0.672,0.672
+Alabama,01,05,0105,Warner-Stanton,Democratic,False,False,62466,0.296,-0.296
+Alabama,01,05,0105,Greer,Libertarian,False,False,6740,0.032,0.032
+Alabama,01,06,0106,Palmer,Republican,True,True,154058,0.847,0.847
+Alabama,01,06,0106,Chieffo,Libertarian,False,False,27792,0.153,0.153
+Alabama,01,07,0107,Sewell,Democratic,True,True,123060,0.636,-0.636
+Alabama,01,07,0107,Nichols,Republican,False,False,67353,0.348,0.348
+Alabama,01,07,0107,Goodman,Libertarian,False,False,3207,0.017,0.017
+Alaska,02,00,0200,Mary Peltola,Democratic,True,True,136893,0.549,-0.549
+Alaska,02,00,0200,Sarah Palin,Republican,False,False,112255,0.451,0.451
+Alaska,02,00,0200,Nick Begich,Republican,False,False,0,0.0,0.0
+Alaska,02,00,0200,Chris Bye,Libertarian,False,False,0,0.0,0.0
+Alaska,02,00,0200,Total Write-Ins,,False,False,0,0.0,0.0
+Arizona,04,01,0401,Schweikert,Republican,True,True,182336,0.504,0.504
+Arizona,04,01,0401,Hodge,Democratic,False,False,179141,0.496,-0.496
+Arizona,04,02,0402,Crane,Republican,True,False,174169,0.539,0.539
+Arizona,04,02,0402,O'Halleran,Democratic,False,True,149150,0.461,-0.461
+Arizona,04,03,0403,Gallego,Democratic,True,True,108599,0.77,-0.77
+Arizona,04,03,0403,Zink,Republican,False,False,32475,0.23,0.23
+Arizona,04,04,0404,Stanton,Democratic,True,True,148941,0.561,-0.561
+Arizona,04,04,0404,Cooper,Republican,False,False,116521,0.439,0.439
+Arizona,04,05,0405,Biggs,Republican,True,True,182464,0.567,0.567
+Arizona,04,05,0405,Ramos,Democratic,False,False,120243,0.374,-0.374
+Arizona,04,05,0405,Smith,,False,False,18851,0.059,0.059
+Arizona,04,06,0406,Ciscomani,Republican,True,False,177201,0.507,0.507
+Arizona,04,06,0406,Engel,Democratic,False,False,171969,0.493,-0.493
+Arizona,04,07,0407,Grijalva,Democratic,True,True,126418,0.645,-0.645
+Arizona,04,07,0407,Pozzolo,Republican,False,False,69444,0.355,0.355
+Arizona,04,08,0408,Lesko,Republican,True,True,0,1.0,1.0
+Arizona,04,09,0409,Gosar,Republican,True,True,0,1.0,1.0
+Arkansas,05,01,0501,Crawford,Republican,True,True,152933,0.738,0.738
+Arkansas,05,01,0501,Hodges,Democratic,False,False,54240,0.262,-0.262
+Arkansas,05,02,0502,Hill,Republican,True,True,147700,0.601,0.601
+Arkansas,05,02,0502,Hathaway,Democratic,False,False,86553,0.352,-0.352
+Arkansas,05,02,0502,White,Libertarian,False,False,11564,0.047,0.047
+Arkansas,05,03,0503,Womack,Republican,True,True,142270,0.637,0.637
+Arkansas,05,03,0503,Mallett-Hays,Democratic,False,False,73446,0.329,-0.329
+Arkansas,05,03,0503,Kalagias,Libertarian,False,False,7637,0.034,0.034
+Arkansas,05,04,0504,Westerman,Republican,True,True,153694,0.71,0.71
+Arkansas,05,04,0504,White,Democratic,False,False,56661,0.262,-0.262
+Arkansas,05,04,0504,Maxwell,Libertarian,False,False,6087,0.028,0.028
+California,06,01,0601,LaMalfa,Republican,True,True,152839,0.621,0.621
+California,06,01,0601,Steiner,Democratic,False,False,93386,0.379,-0.379
+California,06,02,0602,Huffman,Democratic,True,True,229720,0.744,-0.744
+California,06,02,0602,Brower,Republican,False,False,79029,0.256,0.256
+California,06,03,0603,Kiley,Republican,True,False,181438,0.536,0.536
+California,06,03,0603,Jones,Democratic,False,False,156761,0.464,-0.464
+California,06,04,0604,Thompson,Democratic,True,True,176900,0.678,-0.678
+California,06,04,0604,Brock,Republican,False,False,84007,0.322,0.322
+California,06,05,0605,McClintock,Republican,True,True,173524,0.613,0.613
+California,06,05,0605,Barkley,Democratic,False,False,109506,0.387,-0.387
+California,06,06,0606,Bera,Democratic,True,True,121058,0.559,-0.559
+California,06,06,0606,Hamilton,Republican,False,False,95325,0.441,0.441
+California,06,07,0607,Matsui,Democratic,True,True,150618,0.683,-0.683
+California,06,07,0607,Semenenko,Republican,False,False,70033,0.317,0.317
+California,06,08,0608,Garamendi,Democratic,True,True,145501,0.757,-0.757
+California,06,08,0608,Recile,Republican,False,False,46634,0.243,0.243
+California,06,09,0609,Harder,Democratic,True,True,95598,0.548,-0.548
+California,06,09,0609,Patti,Republican,False,False,78802,0.452,0.452
+California,06,10,0610,DeSaulnier,Democratic,True,True,198415,0.789,-0.789
+California,06,10,0610,Kerr,,False,False,52965,0.211,0.211
+California,06,11,0611,Pelosi,Democratic,True,True,220848,0.84,-0.84
+California,06,11,0611,Dennis,Republican,False,False,42217,0.16,0.16
+California,06,12,0612,Lee,Democratic,True,True,217110,0.905,-0.905
+California,06,12,0612,Slauson,Republican,False,False,22859,0.095,0.095
+California,06,13,0613,Duarte,Republican,True,False,67060,0.502,0.502
+California,06,13,0613,Gray,Democratic,False,False,66496,0.498,-0.498
+California,06,14,0614,Swalwell,Democratic,True,True,137612,0.693,-0.693
+California,06,14,0614,Hayden,Republican,False,False,60852,0.307,0.307
+California,06,15,0615,Mullin,Democratic,True,False,108077,0.555,-0.555
+California,06,15,0615,Canepa,Democratic,False,False,86797,0.445,-0.445
+California,06,16,0616,Eshoo,Democratic,True,True,139235,0.578,-0.578
+California,06,16,0616,Kumar,Democratic,False,False,101772,0.422,-0.422
+California,06,17,0617,Khanna,Democratic,True,True,127853,0.709,-0.709
+California,06,17,0617,Tandon,Republican,False,False,52400,0.291,0.291
+California,06,18,0618,Lofgren,Democratic,True,True,99776,0.659,-0.659
+California,06,18,0618,Hernandez,Republican,False,False,51737,0.341,0.341
+California,06,19,0619,Panetta,Democratic,True,True,194494,0.687,-0.687
+California,06,19,0619,Gorman,Republican,False,False,88816,0.313,0.313
+California,06,20,0620,McCarthy,Republican,True,True,153844,0.672,0.672
+California,06,20,0620,Wood,Democratic,False,False,74932,0.328,-0.328
+California,06,21,0621,Costa,Democratic,True,True,68074,0.542,-0.542
+California,06,21,0621,Maher,Republican,False,False,57573,0.458,0.458
+California,06,22,0622,Valadao,Republican,True,True,52993,0.515,0.515
+California,06,22,0622,Salas,Democratic,False,False,49859,0.485,-0.485
+California,06,23,0623,Obernolte,Republican,True,True,103197,0.61,0.61
+California,06,23,0623,Marshall,Democratic,False,False,65908,0.39,-0.39
+California,06,24,0624,Carbajal,Democratic,True,True,159019,0.606,-0.606
+California,06,24,0624,Allen,Republican,False,False,103533,0.394,0.394
+California,06,25,0625,Ruiz,Democratic,True,True,87641,0.574,-0.574
+California,06,25,0625,Hawkins,Republican,False,False,65101,0.426,0.426
+California,06,26,0626,Brownley,Democratic,True,True,134575,0.545,-0.545
+California,06,26,0626,Jacobs,Republican,False,False,112214,0.455,0.455
+California,06,27,0627,Garcia,Republican,True,True,104624,0.532,0.532
+California,06,27,0627,Smith,Democratic,False,False,91892,0.468,-0.468
+California,06,28,0628,Chu,Democratic,True,True,150062,0.662,-0.662
+California,06,28,0628,Hallman,Republican,False,False,76495,0.338,0.338
+California,06,29,0629,Cardenas,Democratic,True,True,69915,0.585,-0.585
+California,06,29,0629,Duenas,Democratic,False,False,49520,0.415,-0.415
+California,06,30,0630,Schiff,Democratic,True,True,150100,0.711,-0.711
+California,06,30,0630,Pudlo,Democratic,False,False,60968,0.289,-0.289
+California,06,31,0631,Napolitano,Democratic,True,True,91472,0.595,-0.595
+California,06,31,0631,Martinez,Republican,False,False,62153,0.405,0.405
+California,06,32,0632,Sherman,Democratic,True,True,167411,0.692,-0.692
+California,06,32,0632,Volotzky,Republican,False,False,74618,0.308,0.308
+California,06,33,0633,Aguilar,Democratic,True,True,76588,0.577,-0.577
+California,06,33,0633,Porter,Republican,False,False,56119,0.423,0.423
+California,06,34,0634,Gomez,Democratic,True,True,62244,0.512,-0.512
+California,06,34,0634,Kim,Democratic,False,False,59223,0.488,-0.488
+California,06,35,0635,Torres,Democratic,True,True,75121,0.574,-0.574
+California,06,35,0635,Cargile,Republican,False,False,55832,0.426,0.426
+California,06,36,0636,Lieu,Democratic,True,True,194299,0.698,-0.698
+California,06,36,0636,Collins,Republican,False,False,84264,0.302,0.302
+California,06,37,0637,Kamlager,Democratic,True,False,84338,0.64,-0.64
+California,06,37,0637,Perry,Democratic,False,False,47542,0.36,-0.36
+California,06,38,0638,Sanchez,Democratic,True,True,101260,0.581,-0.581
+California,06,38,0638,Ching,Republican,False,False,73051,0.419,0.419
+California,06,39,0639,Takano,Democratic,True,True,75896,0.577,-0.577
+California,06,39,0639,Smith,Republican,False,False,55701,0.423,0.423
+California,06,40,0640,Kim,Republican,True,True,161589,0.568,0.568
+California,06,40,0640,Mahmood,Democratic,False,False,122722,0.432,-0.432
+California,06,41,0641,Calvert,Republican,True,True,123869,0.523,0.523
+California,06,41,0641,Rollins,Democratic,False,False,112769,0.477,-0.477
+California,06,42,0642,Garcia,Democratic,True,False,99217,0.684,-0.684
+California,06,42,0642,Briscoe,Republican,False,False,45903,0.316,0.316
+California,06,43,0643,Waters,Democratic,True,True,95462,0.773,-0.773
+California,06,43,0643,Navarro,Republican,False,False,27985,0.227,0.227
+California,06,44,0644,Barragan,Democratic,True,True,100160,0.722,-0.722
+California,06,44,0644,Jones,Republican,False,False,38554,0.278,0.278
+California,06,45,0645,Steel,Republican,True,True,113960,0.524,0.524
+California,06,45,0645,Chen,Democratic,False,False,103466,0.476,-0.476
+California,06,46,0646,Correa,Democratic,True,True,78041,0.618,-0.618
+California,06,46,0646,Gonzales,Republican,False,False,48257,0.382,0.382
+California,06,47,0647,Porter,Democratic,True,True,137374,0.517,-0.517
+California,06,47,0647,Baugh,Republican,False,False,128261,0.483,0.483
+California,06,48,0648,Issa,Republican,True,True,155171,0.604,0.604
+California,06,48,0648,Houlahan,Democratic,False,False,101900,0.396,-0.396
+California,06,49,0649,Levin,Democratic,True,True,153541,0.526,-0.526
+California,06,49,0649,Maryott,Republican,False,False,138194,0.474,0.474
+California,06,50,0650,Peters,Democratic,True,True,168816,0.628,-0.628
+California,06,50,0650,Gustafson,Republican,False,False,99819,0.372,0.372
+California,06,51,0651,Jacobs,Democratic,True,True,144186,0.619,-0.619
+California,06,51,0651,Caplan,Republican,False,False,88886,0.381,0.381
+California,06,52,0652,Vargas,Democratic,True,True,100686,0.667,-0.667
+California,06,52,0652,Geffeney,Republican,False,False,50330,0.333,0.333
+Colorado,08,01,0801,DeGette,Democratic,True,True,226929,0.803,-0.803
+Colorado,08,01,0801,Qualteri,Republican,False,False,49530,0.175,0.175
+Colorado,08,01,0801,Kittleson,Libertarian,False,False,6157,0.022,0.022
+Colorado,08,02,0802,Neguse,Democratic,True,True,244107,0.7,-0.7
+Colorado,08,02,0802,Dawson,Republican,False,False,97700,0.28,0.28
+Colorado,08,02,0802,Yurash,,False,False,2876,0.008,0.008
+Colorado,08,02,0802,Nation,,False,False,2188,0.006,0.006
+Colorado,08,02,0802,Wolf,,False,False,1968,0.006,0.006
+Colorado,08,03,0803,Boebert,Republican,True,True,163839,0.501,0.501
+Colorado,08,03,0803,Frisch,Democratic,False,False,163293,0.499,-0.499
+Colorado,08,04,0804,Buck,Republican,True,True,216024,0.609,0.609
+Colorado,08,04,0804,McCorkle,Democratic,False,False,129619,0.366,-0.366
+Colorado,08,04,0804,McGonigal,,False,False,8870,0.025,0.025
+Colorado,08,05,0805,Lamborn,Republican,True,True,155528,0.56,0.56
+Colorado,08,05,0805,Torres,Democratic,False,False,111978,0.403,-0.403
+Colorado,08,05,0805,Flanagan,Libertarian,False,False,7079,0.025,0.025
+Colorado,08,05,0805,Mitchell,,False,False,3370,0.012,0.012
+Colorado,08,06,0806,Crow,Democratic,True,True,170140,0.606,-0.606
+Colorado,08,06,0806,Monahan,Republican,False,False,105084,0.374,0.374
+Colorado,08,06,0806,Mulder,Libertarian,False,False,5531,0.02,0.02
+Colorado,08,07,0807,Pettersen,Democratic,True,False,204984,0.564,-0.564
+Colorado,08,07,0807,Aadland,Republican,False,False,150510,0.414,0.414
+Colorado,08,07,0807,Klopf,Libertarian,False,False,6187,0.017,0.017
+Colorado,08,07,0807,Milton,,False,False,1828,0.005,0.005
+Colorado,08,08,0808,Caraveo,Democratic,True,False,114377,0.484,-0.484
+Colorado,08,08,0808,Kirkmeyer,Republican,False,False,112745,0.477,0.477
+Colorado,08,08,0808,Ward,Libertarian,False,False,9280,0.039,0.039
+Connecticut,09,01,0901,Larson,Democratic,True,True,150355,0.614,-0.614
+Connecticut,09,01,0901,Lazor,Republican,False,False,91536,0.374,0.374
+Connecticut,09,01,0901,Sanders,,False,False,2848,0.012,0.012
+Connecticut,09,02,0902,Courtney,Democratic,True,True,165947,0.582,-0.582
+Connecticut,09,02,0902,France,Republican,False,False,114504,0.402,0.402
+Connecticut,09,02,0902,Blacker,,False,False,2437,0.009,0.009
+Connecticut,09,02,0902,Hall,Libertarian,False,False,2140,0.008,0.008
+Connecticut,09,03,0903,DeLauro,Democratic,True,True,137924,0.568,-0.568
+Connecticut,09,03,0903,DeNardis,Republican,False,False,98704,0.407,0.407
+Connecticut,09,03,0903,Chai,,False,False,4056,0.017,0.017
+Connecticut,09,03,0903,Paglino,,False,False,1967,0.008,0.008
+Connecticut,09,04,0904,Himes,Democratic,True,True,140246,0.595,-0.595
+Connecticut,09,04,0904,Stevenson,Republican,False,False,95518,0.405,0.405
+Connecticut,09,05,0905,Hayes,Democratic,True,True,127795,0.504,-0.504
+Connecticut,09,05,0905,Logan,Republican,False,False,125834,0.496,0.496
+Delaware,10,00,1000,Lisa Rochester,Democratic,True,True,178416,0.555,-0.555
+Delaware,10,00,1000,Lee Murphy,Republican,False,False,138201,0.43,0.43
+Delaware,10,00,1000,Cody McNutt,Libertarian,False,False,3074,0.01,0.01
+Delaware,10,00,1000,David Rogers,,False,False,1958,0.006,0.006
+Florida,12,01,1201,Gaetz,Republican,True,True,197320,0.679,0.679
+Florida,12,01,1201,Jones,Democratic,False,False,93416,0.321,-0.321
+Florida,12,02,1202,Dunn,Republican,True,True,180218,0.598,0.598
+Florida,12,02,1202,Lawson,Democratic,False,True,121120,0.402,-0.402
+Florida,12,03,1203,Cammack,Republican,True,True,178090,0.625,0.625
+Florida,12,03,1203,Hawk,Democratic,False,False,103342,0.363,-0.363
+Florida,12,03,1203,Brooks,,False,False,3410,0.012,0.012
+Florida,12,04,1204,Bean,Republican,True,False,165678,0.605,0.605
+Florida,12,04,1204,Holloway,Democratic,False,False,108358,0.395,-0.395
+Florida,12,05,1205,Rutherford,Republican,True,True,0,1.0,1.0
+Florida,12,06,1206,Waltz,Republican,True,True,226490,0.753,0.753
+Florida,12,06,1206,Hannoush,Libertarian,False,False,74173,0.247,0.247
+Florida,12,07,1207,Mills,Republican,True,False,177957,0.585,0.585
+Florida,12,07,1207,Green,Democratic,False,False,126052,0.415,-0.415
+Florida,12,08,1208,Posey,Republican,True,True,222119,0.649,0.649
+Florida,12,08,1208,Terry,Democratic,False,False,120050,0.351,-0.351
+Florida,12,09,1209,Soto,Democratic,True,True,108522,0.536,-0.536
+Florida,12,09,1209,Moore,Republican,False,False,93815,0.464,0.464
+Florida,12,10,1210,Frost,Democratic,True,False,117929,0.59,-0.59
+Florida,12,10,1210,Wimbish,Republican,False,False,78838,0.394,0.394
+Florida,12,10,1210,Holic,,False,False,2001,0.01,0.01
+Florida,12,10,1210,Jain,,False,False,1110,0.006,0.006
+Florida,12,11,1211,Webster,Republican,True,True,205989,0.631,0.631
+Florida,12,11,1211,Munns,Democratic,False,False,115629,0.354,-0.354
+Florida,12,11,1211,Porter,,False,False,4967,0.015,0.015
+Florida,12,12,1212,Bilirakis,Republican,True,True,226579,0.704,0.704
+Florida,12,12,1212,Walker,Democratic,False,False,95368,0.296,-0.296
+Florida,12,13,1213,Luna,Republican,True,False,181473,0.531,0.531
+Florida,12,13,1213,Lynn,Democratic,False,False,153839,0.451,-0.451
+Florida,12,13,1213,Craft,Libertarian,False,False,6158,0.018,0.018
+Florida,12,14,1214,Castor,Democratic,True,True,149689,0.569,-0.569
+Florida,12,14,1214,Judge,Republican,False,False,113408,0.431,0.431
+Florida,12,15,1215,Lee,Republican,True,False,145211,0.585,0.585
+Florida,12,15,1215,Cohn,Democratic,False,False,102816,0.415,-0.415
+Florida,12,16,1216,Buchanan,Republican,True,True,189738,0.622,0.622
+Florida,12,16,1216,Schneider,Democratic,False,False,115537,0.378,-0.378
+Florida,12,17,1217,Steube,Republican,True,True,222433,0.638,0.638
+Florida,12,17,1217,Kale,Democratic,False,False,123739,0.355,-0.355
+Florida,12,17,1217,Murray,,False,False,2222,0.006,0.006
+Florida,12,18,1218,Franklin,Republican,True,True,167393,0.747,0.747
+Florida,12,18,1218,Hayden,,False,False,56622,0.253,0.253
+Florida,12,19,1219,Donalds,Republican,True,True,213032,0.68,0.68
+Florida,12,19,1219,Banyai,Democratic,False,False,100198,0.32,-0.32
+Florida,12,20,1220,Cherfilus-McCormick,Democratic,True,True,136192,0.723,-0.723
+Florida,12,20,1220,Clark,Republican,False,False,52150,0.277,0.277
+Florida,12,21,1221,Mast,Republican,True,True,208592,0.635,0.635
+Florida,12,21,1221,Balderramos Robinson,Democratic,False,False,119859,0.365,-0.365
+Florida,12,22,1222,Frankel,Democratic,True,True,149977,0.551,-0.551
+Florida,12,22,1222,Franzese,Republican,False,False,122187,0.449,0.449
+Florida,12,23,1223,Moskowitz,Democratic,True,False,143897,0.516,-0.516
+Florida,12,23,1223,Budd,Republican,False,False,130669,0.468,0.468
+Florida,12,23,1223,Scott,,False,False,3079,0.011,0.011
+Florida,12,23,1223,Napier,,False,False,1338,0.005,0.005
+Florida,12,24,1224,Wilson,Democratic,True,True,133416,0.718,-0.718
+Florida,12,24,1224,Navarro,Republican,False,False,52442,0.282,0.282
+Florida,12,25,1225,Wasserman Schultz,Democratic,True,True,129085,0.551,-0.551
+Florida,12,25,1225,Spalding,Republican,False,False,105227,0.449,0.449
+Florida,12,26,1226,Diaz-Balart,Republican,True,True,143226,0.709,0.709
+Florida,12,26,1226,Olivo,Democratic,False,False,58838,0.291,-0.291
+Florida,12,27,1227,Salazar,Republican,True,True,136031,0.573,0.573
+Florida,12,27,1227,Taddeo,Democratic,False,False,101370,0.427,-0.427
+Florida,12,28,1228,Gimenez,Republican,True,True,134456,0.637,0.637
+Florida,12,28,1228,Asencio,Democratic,False,False,76647,0.363,-0.363
+Georgia,13,01,1301,Carter,Republican,True,True,156016,0.592,0.592
+Georgia,13,01,1301,Herring,Democratic,False,False,107662,0.408,-0.408
+Georgia,13,02,1302,Bishop,Democratic,True,True,132501,0.55,-0.55
+Georgia,13,02,1302,West,Republican,False,False,108579,0.45,0.45
+Georgia,13,03,1303,Ferguson,Republican,True,True,213461,0.688,0.688
+Georgia,13,03,1303,Almonord,Democratic,False,False,96799,0.312,-0.312
+Georgia,13,04,1304,Johnson,Democratic,True,True,216247,0.785,-0.785
+Georgia,13,04,1304,Chavez,Republican,False,False,59272,0.215,0.215
+Georgia,13,05,1305,Williams,Democratic,True,True,243471,0.825,-0.825
+Georgia,13,05,1305,Zimm,Republican,False,False,51754,0.175,0.175
+Georgia,13,06,1306,McCormick,Republican,True,False,206783,0.622,0.622
+Georgia,13,06,1306,Christian,Democratic,False,False,125552,0.378,-0.378
+Georgia,13,07,1307,McBath,Democratic,True,True,142852,0.61,-0.61
+Georgia,13,07,1307,Gonsalves,Republican,False,False,91195,0.39,0.39
+Georgia,13,08,1308,Scott,Republican,True,True,178601,0.686,0.686
+Georgia,13,08,1308,Butler,Democratic,False,False,81773,0.314,-0.314
+Georgia,13,09,1309,Clyde,Republican,True,True,212672,0.724,0.724
+Georgia,13,09,1309,Ford,Democratic,False,False,81206,0.276,-0.276
+Georgia,13,10,1310,Collins,Republican,True,False,198413,0.645,0.645
+Georgia,13,10,1310,Johnson-Green,Democratic,False,False,109075,0.355,-0.355
+Georgia,13,11,1311,Loudermilk,Republican,True,True,190035,0.626,0.626
+Georgia,13,11,1311,Daza,Democratic,False,False,113535,0.374,-0.374
+Georgia,13,12,1312,Allen,Republican,True,True,157951,0.596,0.596
+Georgia,13,12,1312,Johnson,Democratic,False,False,107089,0.404,-0.404
+Georgia,13,13,1313,Scott,Democratic,True,True,216150,0.818,-0.818
+Georgia,13,13,1313,Gonzales,Republican,False,False,48209,0.182,0.182
+Georgia,13,14,1314,Greene,Republican,True,True,170003,0.659,0.659
+Georgia,13,14,1314,Flowers,Democratic,False,False,88074,0.341,-0.341
+Hawaii,15,01,1501,Case,Democratic,True,True,142742,0.737,-0.737
+Hawaii,15,01,1501,Kress,Republican,False,False,50833,0.263,0.263
+Hawaii,15,02,1502,Tokuda,Democratic,True,False,127995,0.623,-0.623
+Hawaii,15,02,1502,Akana,Republican,False,False,72455,0.352,0.352
+Hawaii,15,02,1502,Tippens,Libertarian,False,False,5108,0.025,0.025
+Idaho,16,01,1601,Fulcher,Republican,True,True,222891,0.713,0.713
+Idaho,16,01,1601,Peterson,Democratic,False,False,82261,0.263,-0.263
+Idaho,16,01,1601,Drake,Libertarian,False,False,7274,0.023,0.023
+Idaho,16,02,1602,Simpson,Republican,True,True,172456,0.636,0.636
+Idaho,16,02,1602,Norman,Democratic,False,False,98635,0.364,-0.364
+Illinois,17,01,1701,Jackson,Democratic,True,False,151468,0.663,-0.663
+Illinois,17,01,1701,Carlson,Republican,False,False,77146,0.337,0.337
+Illinois,17,02,1702,Kelly,Democratic,True,True,137854,0.668,-0.668
+Illinois,17,02,1702,Lynch,Republican,False,False,68369,0.332,0.332
+Illinois,17,03,1703,Ramirez,Democratic,True,False,111799,0.67,-0.67
+Illinois,17,03,1703,Burau,Republican,False,False,55063,0.33,0.33
+Illinois,17,04,1704,Garcia,Democratic,True,True,87987,0.68,-0.68
+Illinois,17,04,1704,Falakos,Republican,False,False,36960,0.286,0.286
+Illinois,17,04,1704,Hershey,,False,False,4435,0.034,0.034
+Illinois,17,05,1705,Quigley,Democratic,True,True,172040,0.679,-0.679
+Illinois,17,05,1705,Hanson,Republican,False,False,77185,0.305,0.305
+Illinois,17,05,1705,Cruz,,False,False,4135,0.016,0.016
+Illinois,17,06,1706,Casten,Democratic,True,True,148279,0.541,-0.541
+Illinois,17,06,1706,Pekau,Republican,False,False,125625,0.459,0.459
+Illinois,17,07,1707,Davis,Democratic,True,True,0,1.0,-1.0
+Illinois,17,08,1708,Krishnamoorthi,Democratic,True,True,117475,0.569,-0.569
+Illinois,17,08,1708,Dargis,Republican,False,False,89151,0.431,0.431
+Illinois,17,09,1709,Schakowsky,Democratic,True,True,169009,0.709,-0.709
+Illinois,17,09,1709,Rice,Republican,False,False,69324,0.291,0.291
+Illinois,17,10,1710,Schneider,Democratic,True,True,144489,0.623,-0.623
+Illinois,17,10,1710,Severino,Republican,False,False,87528,0.377,0.377
+Illinois,17,11,1711,Foster,Democratic,True,True,145303,0.561,-0.561
+Illinois,17,11,1711,Lauf,Republican,False,False,113650,0.439,0.439
+Illinois,17,12,1712,Bost,Republican,True,True,213438,0.754,0.754
+Illinois,17,12,1712,Markel,Democratic,False,False,69581,0.246,-0.246
+Illinois,17,13,1713,Budzinski,Democratic,True,False,136123,0.559,-0.559
+Illinois,17,13,1713,Deering,Republican,False,False,107357,0.441,0.441
+Illinois,17,14,1714,Underwood,Democratic,True,True,127458,0.541,-0.541
+Illinois,17,14,1714,Gryder,Republican,False,False,108045,0.459,0.459
+Illinois,17,15,1715,Miller,Republican,True,True,209191,0.714,0.714
+Illinois,17,15,1715,Lange,Democratic,False,False,83765,0.286,-0.286
+Illinois,17,16,1716,LaHood,Republican,True,True,196009,0.666,0.666
+Illinois,17,16,1716,Haderlein,Democratic,False,False,98188,0.334,-0.334
+Illinois,17,17,1717,Sorensen,Democratic,True,False,119601,0.518,-0.518
+Illinois,17,17,1717,King,Republican,False,False,111457,0.482,0.482
+Indiana,18,01,1801,Mrvan,Democratic,True,True,112539,0.528,-0.528
+Indiana,18,01,1801,Green,Republican,False,False,100486,0.472,0.472
+Indiana,18,02,1802,Yakym,Republican,True,False,118650,0.635,0.635
+Indiana,18,02,1802,Steury,Democratic,False,False,62547,0.335,-0.335
+Indiana,18,02,1802,Henry,Libertarian,False,False,5588,0.03,0.03
+Indiana,18,03,1803,Banks,Republican,True,True,131252,0.653,0.653
+Indiana,18,03,1803,Snyder,Democratic,False,False,60312,0.3,-0.3
+Indiana,18,03,1803,Gotsch,,False,False,9354,0.047,0.047
+Indiana,18,04,1804,Baird,Republican,True,True,134442,0.682,0.682
+Indiana,18,04,1804,Day,Democratic,False,False,62668,0.318,-0.318
+Indiana,18,05,1805,Spartz,Republican,True,True,146496,0.611,0.611
+Indiana,18,05,1805,Lake,Democratic,False,False,93373,0.389,-0.389
+Indiana,18,06,1806,Pence,Republican,True,True,130482,0.675,0.675
+Indiana,18,06,1806,Wirth,Democratic,False,False,62743,0.325,-0.325
+Indiana,18,07,1807,Carson,Democratic,True,True,116870,0.669,-0.669
+Indiana,18,07,1807,Grabovsky,Republican,False,False,53487,0.306,0.306
+Indiana,18,07,1807,Maple,Libertarian,False,False,4227,0.024,0.024
+Indiana,18,08,1808,Bucshon,Republican,True,True,141746,0.657,0.657
+Indiana,18,08,1808,McCormick,Democratic,False,False,67947,0.315,-0.315
+Indiana,18,08,1808,Horning,Libertarian,False,False,5930,0.028,0.028
+Indiana,18,09,1809,Houchin,Republican,True,False,138765,0.629,0.629
+Indiana,18,09,1809,Fyfe,Democratic,False,False,75631,0.343,-0.343
+Indiana,18,09,1809,Millis,Libertarian,False,False,6370,0.029,0.029
+Iowa,19,01,1901,Miller-Meeks,Republican,True,True,162947,0.534,0.534
+Iowa,19,01,1901,Bohannan,Democratic,False,False,142223,0.466,-0.466
+Iowa,19,02,1902,Hinson,Republican,True,True,172167,0.541,0.541
+Iowa,19,02,1902,Mathis,Democratic,False,False,145930,0.459,-0.459
+Iowa,19,03,1903,Nunn,Republican,True,False,156261,0.503,0.503
+Iowa,19,03,1903,Axne,Democratic,False,True,154117,0.497,-0.497
+Iowa,19,04,1904,Feenstra,Republican,True,True,186467,0.674,0.674
+Iowa,19,04,1904,Melton,Democratic,False,False,84229,0.304,-0.304
+Iowa,19,04,1904,Holder,,False,False,6035,0.022,0.022
+Kansas,20,01,2001,Mann,Republican,True,True,159258,0.678,0.678
+Kansas,20,01,2001,Beard,Democratic,False,False,75726,0.322,-0.322
+Kansas,20,02,2002,LaTurner,Republican,True,True,132765,0.576,0.576
+Kansas,20,02,2002,Schmidt,Democratic,False,False,97580,0.424,-0.424
+Kansas,20,03,2003,Davids,Democratic,True,True,163138,0.549,-0.549
+Kansas,20,03,2003,Adkins,Republican,False,False,127164,0.428,0.428
+Kansas,20,03,2003,Hohe,Libertarian,False,False,6803,0.023,0.023
+Kansas,20,04,2004,Estes,Republican,True,True,142863,0.635,0.635
+Kansas,20,04,2004,Hernandez,Democratic,False,False,82138,0.365,-0.365
+Kentucky,21,01,2101,Comer,Republican,True,True,184103,0.749,0.749
+Kentucky,21,01,2101,Ausbrooks,Democratic,False,False,61693,0.251,-0.251
+Kentucky,21,02,2102,Guthrie,Republican,True,True,170486,0.719,0.719
+Kentucky,21,02,2102,Linderman,Democratic,False,False,66767,0.281,-0.281
+Kentucky,21,03,2103,McGarvey,Democratic,True,False,160853,0.62,-0.62
+Kentucky,21,03,2103,Ray,Republican,False,False,98622,0.38,0.38
+Kentucky,21,04,2104,Massie,Republican,True,True,167541,0.65,0.65
+Kentucky,21,04,2104,Lehman,Democratic,False,False,79977,0.31,-0.31
+Kentucky,21,04,2104,Osborne,,False,False,10111,0.039,0.039
+Kentucky,21,05,2105,Rogers,Republican,True,True,177714,0.822,0.822
+Kentucky,21,05,2105,Halbleib,Democratic,False,False,38549,0.178,-0.178
+Kentucky,21,06,2106,Barr,Republican,True,True,154760,0.651,0.651
+Kentucky,21,06,2106,Young,Democratic,False,False,83003,0.349,-0.349
+Louisiana,22,01,2201,Scalise,Republican,True,True,177642,0.728,0.728
+Louisiana,22,01,2201,Darling,Democratic,False,False,61458,0.252,-0.252
+Louisiana,22,01,2201,Kearney,Libertarian,False,False,4906,0.02,0.02
+Louisiana,22,02,2202,Carter,Democratic,True,True,158120,0.771,-0.771
+Louisiana,22,02,2202,Lux,Republican,False,False,46926,0.229,0.229
+Louisiana,22,03,2203,Higgins,Republican,True,True,144423,0.643,0.643
+Louisiana,22,03,2203,Hoggatt,Republican,False,False,24474,0.109,0.109
+Louisiana,22,03,2203,LeBlanc,Democratic,False,False,23641,0.105,-0.105
+Louisiana,22,03,2203,LeBrun,Democratic,False,False,21172,0.094,-0.094
+Louisiana,22,03,2203,Payne,Republican,False,False,4012,0.018,0.018
+Louisiana,22,03,2203,Wiggins,,False,False,3255,0.014,0.014
+Louisiana,22,03,2203,Shaheen,Republican,False,False,1955,0.009,0.009
+Louisiana,22,03,2203,McLendon,Libertarian,False,False,1620,0.007,0.007
+Louisiana,22,04,2204,Johnson,Republican,True,True,0,1.0,1.0
+Louisiana,22,05,2205,Letlow,Republican,True,True,151080,0.676,0.676
+Louisiana,22,05,2205,Dantzler,Democratic,False,False,35149,0.157,-0.157
+Louisiana,22,05,2205,Huff,Democratic,False,False,19383,0.087,-0.087
+Louisiana,22,05,2205,Guillory,Republican,False,False,12159,0.054,0.054
+Louisiana,22,05,2205,Pullen,Republican,False,False,5782,0.026,0.026
+Louisiana,22,06,2206,Graves,Republican,True,True,189684,0.804,0.804
+Louisiana,22,06,2206,Craig,Libertarian,False,False,30709,0.13,0.13
+Louisiana,22,06,2206,Belzer,Republican,False,False,15535,0.066,0.066
+Maine,23,01,2301,Pingree,Democratic,True,True,218630,0.628,-0.628
+Maine,23,01,2301,Thelander,Republican,False,False,128996,0.371,0.371
+Maine,23,01,2301,Total Write-Ins,,False,False,362,0.001,0.001
+Maine,23,02,2302,Golden,Democratic,True,True,165136,0.531,-0.531
+Maine,23,02,2302,Poliquin,Republican,False,False,146142,0.469,0.469
+Maine,23,02,2302,Bond,,False,False,0,0.0,0.0
+Maryland,24,01,2401,Harris,Republican,True,True,159673,0.545,0.545
+Maryland,24,01,2401,Mizeur,Democratic,False,False,126511,0.432,-0.432
+Maryland,24,01,2401,Thibeault,Libertarian,False,False,6924,0.024,0.024
+Maryland,24,02,2402,Ruppersberger,Democratic,True,True,159000,0.593,-0.593
+Maryland,24,02,2402,Ambrose,Republican,False,False,109081,0.407,0.407
+Maryland,24,03,2403,Sarbanes,Democratic,True,True,175514,0.602,-0.602
+Maryland,24,03,2403,Morgan,Republican,False,False,115801,0.398,0.398
+Maryland,24,04,2404,Ivey,Democratic,True,False,144204,0.903,-0.903
+Maryland,24,04,2404,Warner,Republican,False,False,15441,0.097,0.097
+Maryland,24,05,2405,Hoyer,Democratic,True,True,182478,0.66,-0.66
+Maryland,24,05,2405,Palombi,Republican,False,False,94000,0.34,0.34
+Maryland,24,06,2406,Trone,Democratic,True,True,140295,0.548,-0.548
+Maryland,24,06,2406,Parrott,Republican,False,False,115771,0.452,0.452
+Maryland,24,07,2407,Mfume,Democratic,True,True,151640,0.822,-0.822
+Maryland,24,07,2407,Collier,Republican,False,False,32737,0.178,0.178
+Maryland,24,08,2408,Raskin,Democratic,True,True,211842,0.803,-0.803
+Maryland,24,08,2408,Coll,Republican,False,False,47965,0.182,0.182
+Maryland,24,08,2408,Garcia,Libertarian,False,False,4125,0.016,0.016
+Massachusetts,25,01,2501,Neal,Democratic,True,True,153402,0.614,-0.614
+Massachusetts,25,01,2501,Martilli,Republican,False,False,96499,0.386,0.386
+Massachusetts,25,02,2502,McGovern,Democratic,True,True,178472,0.662,-0.662
+Massachusetts,25,02,2502,Sossa-Paquette,Republican,False,False,91100,0.338,0.338
+Massachusetts,25,03,2503,Trahan,Democratic,True,True,145507,0.638,-0.638
+Massachusetts,25,03,2503,Tran,Republican,False,False,82628,0.362,0.362
+Massachusetts,25,04,2504,Auchincloss,Democratic,True,True,0,1.0,-1.0
+Massachusetts,25,05,2505,Clark,Democratic,True,True,198617,0.738,-0.738
+Massachusetts,25,05,2505,Colarusso,Republican,False,False,70694,0.262,0.262
+Massachusetts,25,06,2506,Moulton,Democratic,True,True,190062,0.627,-0.627
+Massachusetts,25,06,2506,May,Republican,False,False,107496,0.354,0.354
+Massachusetts,25,06,2506,Tashjian,Libertarian,False,False,5727,0.019,0.019
+Massachusetts,25,07,2507,Pressley,Democratic,True,True,144902,0.845,-0.845
+Massachusetts,25,07,2507,Palmer,Republican,False,False,26481,0.155,0.155
+Massachusetts,25,08,2508,Lynch,Democratic,True,True,184084,0.695,-0.695
+Massachusetts,25,08,2508,Burke,Republican,False,False,80961,0.305,0.305
+Massachusetts,25,09,2509,Keating,Democratic,True,True,193426,0.594,-0.594
+Massachusetts,25,09,2509,Brown,Republican,False,False,131936,0.406,0.406
+Michigan,26,01,2601,Bergman,Republican,True,True,231652,0.599,0.599
+Michigan,26,01,2601,Lorinser,Democratic,False,False,144952,0.375,-0.375
+Michigan,26,01,2601,Hakola,,False,False,5480,0.014,0.014
+Michigan,26,01,2601,Gale,Libertarian,False,False,4569,0.012,0.012
+Michigan,26,02,2602,Moolenaar,Republican,True,True,215092,0.637,0.637
+Michigan,26,02,2602,Hilliard,Democratic,False,False,115710,0.343,-0.343
+Michigan,26,02,2602,Hewer,Libertarian,False,False,6818,0.02,0.02
+Michigan,26,03,2603,Scholten,Democratic,True,False,186109,0.548,-0.548
+Michigan,26,03,2603,Gibbs,Republican,False,False,142321,0.419,0.419
+Michigan,26,03,2603,Lewis,Libertarian,False,False,6718,0.02,0.02
+Michigan,26,03,2603,Palus,,False,False,4192,0.012,0.012
+Michigan,26,04,2604,Huizenga,Republican,True,True,185778,0.544,0.544
+Michigan,26,04,2604,Alfonso,Democratic,False,False,145041,0.425,-0.425
+Michigan,26,04,2604,Wenke,Libertarian,False,False,8525,0.025,0.025
+Michigan,26,04,2604,Clark,,False,False,2260,0.007,0.007
+Michigan,26,05,2605,Walberg,Republican,True,True,196498,0.625,0.625
+Michigan,26,05,2605,Goldberg,Democratic,False,False,109549,0.349,-0.349
+Michigan,26,05,2605,Peterson,Libertarian,False,False,5089,0.016,0.016
+Michigan,26,05,2605,Scott,,False,False,3116,0.01,0.01
+Michigan,26,06,2606,Dingell,Democratic,True,True,241763,0.659,-0.659
+Michigan,26,06,2606,Williams,Republican,False,False,125168,0.341,0.341
+Michigan,26,07,2607,Slotkin,Democratic,True,True,192828,0.517,-0.517
+Michigan,26,07,2607,Barrett,Republican,False,False,172619,0.463,0.463
+Michigan,26,07,2607,Dailey,Libertarian,False,False,7276,0.02,0.02
+Michigan,26,08,2608,Kildee,Democratic,True,True,178318,0.531,-0.531
+Michigan,26,08,2608,Junge,Republican,False,False,143845,0.428,0.428
+Michigan,26,08,2608,Goodwin,,False,False,9077,0.027,0.027
+Michigan,26,08,2608,Canny,Libertarian,False,False,4580,0.014,0.014
+Michigan,26,09,2609,McClain,Republican,True,True,238289,0.639,0.639
+Michigan,26,09,2609,Jaye,Democratic,False,False,123692,0.332,-0.332
+Michigan,26,09,2609,Walkowicz,,False,False,6570,0.018,0.018
+Michigan,26,09,2609,Kelts,Libertarian,False,False,4349,0.012,0.012
+Michigan,26,10,2610,James,Republican,True,False,159203,0.488,0.488
+Michigan,26,10,2610,Marlinga,Democratic,False,False,157602,0.483,-0.483
+Michigan,26,10,2610,Kirby,,False,False,5905,0.018,0.018
+Michigan,26,10,2610,Saliba,Libertarian,False,False,3524,0.011,0.011
+Michigan,26,11,2611,Stevens,Democratic,True,True,224080,0.613,-0.613
+Michigan,26,11,2611,Ambrose,Republican,False,False,141312,0.387,0.387
+Michigan,26,12,2612,Tlaib,Democratic,True,True,196601,0.708,-0.708
+Michigan,26,12,2612,Elliott,Republican,False,False,72889,0.263,0.263
+Michigan,26,12,2612,Walkowicz,,False,False,8046,0.029,0.029
+Michigan,26,13,2613,Thanedar,Democratic,True,False,166203,0.711,-0.711
+Michigan,26,13,2613,Bivings,Republican,False,False,56111,0.24,0.24
+Michigan,26,13,2613,Coleman,,False,False,8811,0.038,0.038
+Michigan,26,13,2613,Dardzinski,,False,False,2763,0.012,0.012
+Minnesota,27,01,2701,Finstad,Republican,True,True,159621,0.539,0.539
+Minnesota,27,01,2701,Ettinger,Democratic,False,False,125457,0.423,-0.423
+Minnesota,27,01,2701,Reisdorf,,False,False,6389,0.022,0.022
+Minnesota,27,01,2701,Abrahamson,,False,False,4943,0.017,0.017
+Minnesota,27,02,2702,Craig,Democratic,True,True,165583,0.51,-0.51
+Minnesota,27,02,2702,Kistner,Republican,False,False,148576,0.457,0.457
+Minnesota,27,02,2702,Overby,,False,False,10728,0.033,0.033
+Minnesota,27,03,2703,Phillips,Democratic,True,True,198883,0.596,-0.596
+Minnesota,27,03,2703,Weiler,Republican,False,False,134797,0.404,0.404
+Minnesota,27,04,2704,McCollum,Democratic,True,True,200055,0.677,-0.677
+Minnesota,27,04,2704,Xiong,Republican,False,False,95493,0.323,0.323
+Minnesota,27,05,2705,Omar,Democratic,True,True,214224,0.752,-0.752
+Minnesota,27,05,2705,Davis,Republican,False,False,70702,0.248,0.248
+Minnesota,27,06,2706,Emmer,Republican,True,True,198145,0.621,0.621
+Minnesota,27,06,2706,Hendricks,Democratic,False,False,120852,0.379,-0.379
+Minnesota,27,07,2707,Fischbach,Republican,True,True,204766,0.67,0.67
+Minnesota,27,07,2707,Abahsain,Democratic,False,False,84455,0.276,-0.276
+Minnesota,27,07,2707,Johnson,,False,False,16421,0.054,0.054
+Minnesota,27,08,2708,Stauber,Republican,True,True,188755,0.572,0.572
+Minnesota,27,08,2708,Schultz,Democratic,False,False,141009,0.428,-0.428
+Mississippi,28,01,2801,Kelly,Republican,True,True,122152,0.73,0.73
+Mississippi,28,01,2801,Black,Democratic,False,False,45238,0.27,-0.27
+Mississippi,28,02,2802,Thompson,Democratic,True,True,108285,0.601,-0.601
+Mississippi,28,02,2802,Flowers,Republican,False,False,71884,0.399,0.399
+Mississippi,28,03,2803,Guest,Republican,True,True,132481,0.707,0.707
+Mississippi,28,03,2803,Young,Democratic,False,False,54803,0.293,-0.293
+Mississippi,28,04,2804,Ezell,Republican,True,False,127813,0.733,0.733
+Mississippi,28,04,2804,DuPree,Democratic,False,False,42876,0.246,-0.246
+Mississippi,28,04,2804,Johnson,Libertarian,False,False,3569,0.02,0.02
+Missouri,29,01,2901,Bush,Democratic,True,True,160042,0.728,-0.728
+Missouri,29,01,2901,Jones,Republican,False,False,53572,0.244,0.244
+Missouri,29,01,2901,Zsidisin,Libertarian,False,False,6166,0.028,0.028
+Missouri,29,02,2902,Wagner,Republican,True,True,173035,0.549,0.549
+Missouri,29,02,2902,Gunby,Democratic,False,False,135639,0.43,-0.43
+Missouri,29,02,2902,Slantz,Libertarian,False,False,6486,0.021,0.021
+Missouri,29,03,2903,Luetkemeyer,Republican,True,True,180358,0.652,0.652
+Missouri,29,03,2903,Mann,Democratic,False,False,96465,0.348,-0.348
+Missouri,29,04,2904,Alford,Republican,True,False,181023,0.713,0.713
+Missouri,29,04,2904,Truman,Democratic,False,False,66671,0.263,-0.263
+Missouri,29,04,2904,Langkraehr,Libertarian,False,False,6090,0.024,0.024
+Missouri,29,05,2905,Cleaver,Democratic,True,True,139882,0.609,-0.609
+Missouri,29,05,2905,Turk,Republican,False,False,83794,0.365,0.365
+Missouri,29,05,2905,Dominick,Libertarian,False,False,5830,0.025,0.025
+Missouri,29,06,2906,Graves,Republican,True,True,184070,0.703,0.703
+Missouri,29,06,2906,Martin,Democratic,False,False,71939,0.275,-0.275
+Missouri,29,06,2906,Maidment,Libertarian,False,False,5745,0.022,0.022
+Missouri,29,07,2907,Burlison,Republican,True,False,177957,0.709,0.709
+Missouri,29,07,2907,Radaker-Sheafer,Democratic,False,False,67082,0.267,-0.267
+Missouri,29,07,2907,Craig,Libertarian,False,False,5839,0.023,0.023
+Missouri,29,08,2908,Smith,Republican,True,True,186259,0.76,0.76
+Missouri,29,08,2908,McCallian,Democratic,False,False,53661,0.219,-0.219
+Missouri,29,08,2908,Higgins,Libertarian,False,False,5175,0.021,0.021
+Montana,30,01,3001,Zinke,Republican,True,False,123102,0.496,0.496
+Montana,30,01,3001,Tranel,Democratic,False,False,115265,0.465,-0.465
+Montana,30,01,3001,Lamb,Libertarian,False,False,9593,0.039,0.039
+Montana,30,02,3002,Rosendale,Republican,True,True,121979,0.566,0.566
+Montana,30,02,3002,Buchanan,,False,False,47195,0.219,0.219
+Montana,30,02,3002,Ronning,Democratic,False,False,43480,0.202,-0.202
+Montana,30,02,3002,Rankin,Libertarian,False,False,3018,0.014,0.014
+Nebraska,31,01,3101,Flood,Republican,True,True,127671,0.581,0.581
+Nebraska,31,01,3101,Pansing Brooks,Democratic,False,False,91940,0.419,-0.419
+Nebraska,31,02,3102,Bacon,Republican,True,True,111388,0.515,0.515
+Nebraska,31,02,3102,Vargas,Democratic,False,False,104868,0.485,-0.485
+Nebraska,31,03,3103,Smith,Republican,True,True,171967,0.783,0.783
+Nebraska,31,03,3103,Else,Democratic,False,False,34703,0.158,-0.158
+Nebraska,31,03,3103,Elworth,,False,False,12915,0.059,0.059
+Nevada,32,01,3201,Titus,Democratic,True,True,114916,0.516,-0.516
+Nevada,32,01,3201,Robertson,Republican,False,False,102355,0.459,0.459
+Nevada,32,01,3201,Cavanaugh,Libertarian,False,False,5502,0.025,0.025
+Nevada,32,02,3202,Amodei,Republican,True,True,181689,0.597,0.597
+Nevada,32,02,3202,Krause,Democratic,False,False,115186,0.379,-0.379
+Nevada,32,02,3202,Best,,False,False,4076,0.013,0.013
+Nevada,32,02,3202,Baber,Libertarian,False,False,3351,0.011,0.011
+Nevada,32,03,3203,Lee,Democratic,True,True,130237,0.52,-0.52
+Nevada,32,03,3203,Becker,Republican,False,False,120102,0.48,0.48
+Nevada,32,04,3204,Horsford,Democratic,True,True,115836,0.524,-0.524
+Nevada,32,04,3204,Peters,Republican,False,False,105037,0.476,0.476
+New Hampshire,33,01,3301,Pappas,Democratic,True,True,166852,0.54,-0.54
+New Hampshire,33,01,3301,Leavitt,Republican,False,False,141899,0.46,0.46
+New Hampshire,33,02,3302,McLane Kuster,Democratic,True,True,171733,0.559,-0.559
+New Hampshire,33,02,3302,Burns,Republican,False,False,135567,0.441,0.441
+New Jersey,34,01,3401,Norcross,Democratic,True,True,139559,0.623,-0.623
+New Jersey,34,01,3401,Gustafson,Republican,False,False,78794,0.352,0.352
+New Jersey,34,01,3401,Kline,,False,False,3343,0.015,0.015
+New Jersey,34,01,3401,Fletcher,,False,False,1546,0.007,0.007
+New Jersey,34,01,3401,Cannon,,False,False,642,0.003,0.003
+New Jersey,34,02,3402,Van Drew,Republican,True,True,139216,0.589,0.589
+New Jersey,34,02,3402,Alexander,Democratic,False,False,94521,0.4,-0.4
+New Jersey,34,02,3402,Gallo,,False,False,1825,0.008,0.008
+New Jersey,34,02,3402,Sanchez,,False,False,920,0.004,0.004
+New Jersey,34,03,3403,Kim,Democratic,True,True,150497,0.555,-0.555
+New Jersey,34,03,3403,Healey,Republican,False,False,118413,0.436,0.436
+New Jersey,34,03,3403,Russomanno,,False,False,1347,0.005,0.005
+New Jersey,34,03,3403,Sobocinski,,False,False,1116,0.004,0.004
+New Jersey,34,04,3404,Smith,Republican,True,True,173288,0.669,0.669
+New Jersey,34,04,3404,Jenkins,Democratic,False,False,81233,0.314,-0.314
+New Jersey,34,04,3404,Cullen,,False,False,1902,0.007,0.007
+New Jersey,34,04,3404,Schmidt,,False,False,1197,0.005,0.005
+New Jersey,34,04,3404,Schroeder,,False,False,905,0.003,0.003
+New Jersey,34,04,3404,Daniels,,False,False,437,0.002,0.002
+New Jersey,34,05,3405,Gottheimer,Democratic,True,True,145559,0.547,-0.547
+New Jersey,34,05,3405,Pallotta,Republican,False,False,117873,0.443,0.443
+New Jersey,34,05,3405,Marcus,,False,False,1193,0.004,0.004
+New Jersey,34,05,3405,Ferrigno,,False,False,700,0.003,0.003
+New Jersey,34,05,3405,Vellucci,,False,False,618,0.002,0.002
+New Jersey,34,06,3406,Pallone,Democratic,True,True,106238,0.575,-0.575
+New Jersey,34,06,3406,Kiley,Republican,False,False,75839,0.41,0.41
+New Jersey,34,06,3406,Fisher,,False,False,1361,0.007,0.007
+New Jersey,34,06,3406,Soni,,False,False,947,0.005,0.005
+New Jersey,34,06,3406,Antisell,,False,False,534,0.003,0.003
+New Jersey,34,07,3407,Kean Jr.,Republican,True,False,159392,0.514,0.514
+New Jersey,34,07,3407,Malinowski,Democratic,False,True,150701,0.486,-0.486
+New Jersey,34,08,3408,Menendez,Democratic,True,False,78371,0.736,-0.736
+New Jersey,34,08,3408,Arroyo,Republican,False,False,24956,0.234,0.234
+New Jersey,34,08,3408,Kuniansky,,False,False,1016,0.01,0.01
+New Jersey,34,08,3408,Delaney,,False,False,758,0.007,0.007
+New Jersey,34,08,3408,Cook,,False,False,714,0.007,0.007
+New Jersey,34,08,3408,Olivera,,False,False,399,0.004,0.004
+New Jersey,34,08,3408,Salierno,,False,False,246,0.002,0.002
+New Jersey,34,09,3409,Pascrell,Democratic,True,True,82457,0.55,-0.55
+New Jersey,34,09,3409,Prempeh,Republican,False,False,65365,0.436,0.436
+New Jersey,34,09,3409,Sherman,,False,False,1108,0.007,0.007
+New Jersey,34,09,3409,Armstrong,,False,False,1054,0.007,0.007
+New Jersey,34,10,3410,Payne Jr.,Democratic,True,True,100644,0.776,-0.776
+New Jersey,34,10,3410,Pinckney,Republican,False,False,25984,0.2,0.2
+New Jersey,34,10,3410,Johnson,,False,False,1989,0.015,0.015
+New Jersey,34,10,3410,Ludden,,False,False,634,0.005,0.005
+New Jersey,34,10,3410,Childress,,False,False,380,0.003,0.003
+New Jersey,34,11,3411,Sherrill,Democratic,True,True,161238,0.59,-0.59
+New Jersey,34,11,3411,DeGroot,Republican,False,False,109944,0.402,0.402
+New Jersey,34,11,3411,Biasco,,False,False,2276,0.008,0.008
+New Jersey,34,12,3412,Watson Coleman,Democratic,True,True,125127,0.631,-0.631
+New Jersey,34,12,3412,Mayfield,Republican,False,False,71175,0.359,0.359
+New Jersey,34,12,3412,Genrich,,False,False,1925,0.01,0.01
+New Mexico,35,01,3501,Stansbury,Democratic,True,True,156386,0.558,-0.558
+New Mexico,35,01,3501,Garcia Holmes,Republican,False,False,124115,0.442,0.442
+New Mexico,35,02,3502,Vasquez,Democratic,True,False,96984,0.503,-0.503
+New Mexico,35,02,3502,Herrell,Republican,False,True,95638,0.497,0.497
+New Mexico,35,03,3503,Leger Fernandez,Democratic,True,True,134195,0.582,-0.582
+New Mexico,35,03,3503,Martinez Johnson,Republican,False,False,96560,0.418,0.418
+New York,36,01,3601,LaLota,Republican,True,False,173275,0.559,0.559
+New York,36,01,3601,Fleming,Democratic,False,False,136899,0.441,-0.441
+New York,36,02,3602,Garbarino,Republican,True,True,148654,0.61,0.61
+New York,36,02,3602,Gordon,Democratic,False,False,95217,0.39,-0.39
+New York,36,03,3603,Santos,Republican,True,False,142673,0.541,0.541
+New York,36,03,3603,Zimmerman,Democratic,False,False,121094,0.459,-0.459
+New York,36,04,3604,D'Esposito,Republican,True,False,139063,0.519,0.519
+New York,36,04,3604,Gillen,Democratic,False,False,129077,0.481,-0.481
+New York,36,05,3605,Meeks,Democratic,True,True,97981,0.752,-0.752
+New York,36,05,3605,King,Republican,False,False,32393,0.248,0.248
+New York,36,06,3606,Meng,Democratic,True,True,79506,0.633,-0.633
+New York,36,06,3606,Zmich,Republican,False,False,46188,0.367,0.367
+New York,36,07,3607,Velazquez,Democratic,True,True,111968,0.805,-0.805
+New York,36,07,3607,Pagan,Republican,False,False,27142,0.195,0.195
+New York,36,08,3608,Jeffries,Democratic,True,True,93295,0.724,-0.724
+New York,36,08,3608,Dashevsky,Republican,False,False,35486,0.276,0.276
+New York,36,09,3609,Clarke,Democratic,True,True,111162,0.822,-0.822
+New York,36,09,3609,Raitport,,False,False,24143,0.178,0.178
+New York,36,10,3610,Goldman,Democratic,True,False,149261,0.839,-0.839
+New York,36,10,3610,Hamdan,Republican,False,False,27230,0.153,0.153
+New York,36,10,3610,Speer,,False,False,1357,0.008,0.008
+New York,36,11,3611,Malliotakis,Republican,True,True,113485,0.621,0.621
+New York,36,11,3611,Rose,Democratic,False,False,69241,0.379,-0.379
+New York,36,12,3612,Nadler,Democratic,True,True,186357,0.817,-0.817
+New York,36,12,3612,Zumbluskas,Republican,False,False,41264,0.181,0.181
+New York,36,12,3612,Itkis,,False,False,583,0.003,0.003
+New York,36,13,3613,Espaillat,Democratic,True,True,0,1.0,-1.0
+New York,36,14,3614,Ocasio-Cortez,Democratic,True,True,78788,0.706,-0.706
+New York,36,14,3614,Forte,Republican,False,False,30661,0.275,0.275
+New York,36,14,3614,Cuellar,,False,False,2128,0.019,0.019
+New York,36,15,3615,Torres,Democratic,True,True,72610,0.826,-0.826
+New York,36,15,3615,Sapaskis,Republican,False,False,15265,0.174,0.174
+New York,36,16,3616,Bowman,Democratic,True,True,131550,0.642,-0.642
+New York,36,16,3616,Flisser,Republican,False,False,73385,0.358,0.358
+New York,36,17,3617,Lawler,Republican,True,False,142206,0.504,0.504
+New York,36,17,3617,Maloney,Democratic,False,True,139892,0.496,-0.496
+New York,36,18,3618,Ryan,Democratic,True,True,132365,0.505,-0.505
+New York,36,18,3618,Schmitt,Republican,False,False,129757,0.495,0.495
+New York,36,19,3619,Molinaro,Republican,True,False,144075,0.511,0.511
+New York,36,19,3619,Riley,Democratic,False,False,137873,0.489,-0.489
+New York,36,20,3620,Tonko,Democratic,True,True,159015,0.55,-0.55
+New York,36,20,3620,Joy,Republican,False,False,130012,0.45,0.45
+New York,36,21,3621,Stefanik,Republican,True,True,166536,0.594,0.594
+New York,36,21,3621,Castelli,Democratic,False,False,113882,0.406,-0.406
+New York,36,22,3622,Williams,Republican,True,False,135061,0.505,0.505
+New York,36,22,3622,Conole,Democratic,False,False,132432,0.495,-0.495
+New York,36,23,3623,Langworthy,Republican,True,False,189790,0.65,0.65
+New York,36,23,3623,Della Pia,Democratic,False,False,102323,0.35,-0.35
+New York,36,24,3624,Tenney,Republican,True,True,181679,0.664,0.664
+New York,36,24,3624,Holden,Democratic,False,False,91793,0.336,-0.336
+New York,36,25,3625,Morelle,Democratic,True,True,148681,0.536,-0.536
+New York,36,25,3625,Singletary,Republican,False,False,128502,0.464,0.464
+New York,36,26,3626,Higgins,Democratic,True,True,154477,0.639,-0.639
+New York,36,26,3626,Sams,Republican,False,False,87189,0.361,0.361
+North Carolina,37,01,3701,Davis,Democratic,True,False,134996,0.524,-0.524
+North Carolina,37,01,3701,Smith,Republican,False,False,122780,0.476,0.476
+North Carolina,37,02,3702,Ross,Democratic,True,True,190714,0.647,-0.647
+North Carolina,37,02,3702,Villaverde,Republican,False,False,104155,0.353,0.353
+North Carolina,37,03,3703,Murphy,Republican,True,True,166520,0.669,0.669
+North Carolina,37,03,3703,Gaskins,Democratic,False,False,82378,0.331,-0.331
+North Carolina,37,04,3704,Foushee,Democratic,True,False,194983,0.669,-0.669
+North Carolina,37,04,3704,Geels,Republican,False,False,96442,0.331,0.331
+North Carolina,37,05,3705,Foxx,Republican,True,True,175279,0.632,0.632
+North Carolina,37,05,3705,Parrish,Democratic,False,False,102269,0.368,-0.368
+North Carolina,37,06,3706,Manning,Democratic,True,True,139553,0.539,-0.539
+North Carolina,37,06,3706,Castelli,Republican,False,False,116635,0.45,0.45
+North Carolina,37,06,3706,Watercott,Libertarian,False,False,2810,0.011,0.011
+North Carolina,37,07,3707,Rouzer,Republican,True,True,164047,0.577,0.577
+North Carolina,37,07,3707,Graham,Democratic,False,False,120222,0.423,-0.423
+North Carolina,37,08,3708,Bishop,Republican,True,True,183998,0.699,0.699
+North Carolina,37,08,3708,Huffman,Democratic,False,False,79192,0.301,-0.301
+North Carolina,37,09,3709,Hudson,Republican,True,True,131453,0.565,0.565
+North Carolina,37,09,3709,Clark,Democratic,False,False,101202,0.435,-0.435
+North Carolina,37,10,3710,McHenry,Republican,True,True,194681,0.727,0.727
+North Carolina,37,10,3710,Genant,Democratic,False,False,73174,0.273,-0.273
+North Carolina,37,11,3711,Edwards,Republican,True,False,174232,0.538,0.538
+North Carolina,37,11,3711,Beach-Ferrara,Democratic,False,False,144165,0.445,-0.445
+North Carolina,37,11,3711,Coatney,Libertarian,False,False,5515,0.017,0.017
+North Carolina,37,12,3712,Adams,Democratic,True,True,140494,0.627,-0.627
+North Carolina,37,12,3712,Lee,Republican,False,False,83415,0.373,0.373
+North Carolina,37,13,3713,Nickel,Democratic,True,False,143090,0.516,-0.516
+North Carolina,37,13,3713,Hines,Republican,False,False,134256,0.484,0.484
+North Carolina,37,14,3714,Jackson,Democratic,True,False,148738,0.577,-0.577
+North Carolina,37,14,3714,Harrigan,Republican,False,False,109014,0.423,0.423
+North Dakota,38,00,3800,Kelly Armstrong,Republican,True,True,147980,0.623,0.623
+North Dakota,38,00,3800,Cara Mund,,False,False,89371,0.377,0.377
+Ohio,39,01,3901,Landsman,Democratic,True,False,151418,0.525,-0.525
+Ohio,39,01,3901,Chabot,Republican,False,True,137213,0.475,0.475
+Ohio,39,02,3902,Wenstrup,Republican,True,True,188300,0.745,0.745
+Ohio,39,02,3902,Meadows,Democratic,False,False,64329,0.255,-0.255
+Ohio,39,03,3903,Beatty,Democratic,True,True,174846,0.702,-0.702
+Ohio,39,03,3903,Stahley,Republican,False,False,74335,0.298,0.298
+Ohio,39,04,3904,Jordan,Republican,True,True,196655,0.693,0.693
+Ohio,39,04,3904,Wilson,Democratic,False,False,87106,0.307,-0.307
+Ohio,39,05,3905,Latta,Republican,True,True,184205,0.67,0.67
+Ohio,39,05,3905,Swartz,Democratic,False,False,90614,0.33,-0.33
+Ohio,39,06,3906,Johnson,Republican,True,True,186965,0.677,0.677
+Ohio,39,06,3906,Lyras,Democratic,False,False,89086,0.323,-0.323
+Ohio,39,07,3907,Miller,Republican,True,False,164904,0.554,0.554
+Ohio,39,07,3907,Diemer,Democratic,False,False,132548,0.446,-0.446
+Ohio,39,08,3908,Davidson,Republican,True,True,177132,0.649,0.649
+Ohio,39,08,3908,Enoch,Democratic,False,False,95829,0.351,-0.351
+Ohio,39,09,3909,Kaptur,Democratic,True,True,147512,0.565,-0.565
+Ohio,39,09,3909,Majewski,Republican,False,False,113363,0.435,0.435
+Ohio,39,10,3910,Turner,Republican,True,True,161792,0.622,0.622
+Ohio,39,10,3910,Esrati,Democratic,False,False,98383,0.378,-0.378
+Ohio,39,11,3911,Brown,Democratic,True,True,162154,0.776,-0.776
+Ohio,39,11,3911,Brewer,Republican,False,False,46862,0.224,0.224
+Ohio,39,12,3912,Balderson,Republican,True,True,187322,0.695,0.695
+Ohio,39,12,3912,Rippel-Elton,Democratic,False,False,82101,0.305,-0.305
+Ohio,39,13,3913,Sykes,Democratic,True,False,146621,0.526,-0.526
+Ohio,39,13,3913,Gesiotto Gilbert,Republican,False,False,132181,0.474,0.474
+Ohio,39,14,3914,Joyce,Republican,True,True,180251,0.619,0.619
+Ohio,39,14,3914,Kilboy,Democratic,False,False,111155,0.381,-0.381
+Ohio,39,15,3915,Carey,Republican,True,True,140012,0.572,0.572
+Ohio,39,15,3915,Josephson,Democratic,False,False,104613,0.428,-0.428
+Oklahoma,40,01,4001,Hern,Republican,True,True,142620,0.612,0.612
+Oklahoma,40,01,4001,Martin,Democratic,False,False,80835,0.347,-0.347
+Oklahoma,40,01,4001,Rogers,,False,False,9693,0.042,0.042
+Oklahoma,40,02,4002,Brecheen,Republican,True,False,167687,0.724,0.724
+Oklahoma,40,02,4002,Andrews,Democratic,False,False,54149,0.234,-0.234
+Oklahoma,40,02,4002,Robinson,,False,False,9623,0.042,0.042
+Oklahoma,40,03,4003,Lucas,Republican,True,True,147302,0.745,0.745
+Oklahoma,40,03,4003,Ross,Democratic,False,False,50320,0.255,-0.255
+Oklahoma,40,04,4004,Cole,Republican,True,True,149777,0.668,0.668
+Oklahoma,40,04,4004,Brannon,Democratic,False,False,74598,0.332,-0.332
+Oklahoma,40,05,4005,Bice,Republican,True,True,152567,0.59,0.59
+Oklahoma,40,05,4005,Harris-Till,Democratic,False,False,96709,0.374,-0.374
+Oklahoma,40,05,4005,Frosch,,False,False,9318,0.036,0.036
+Oregon,41,01,4101,Bonamici,Democratic,True,True,210682,0.68,-0.68
+Oregon,41,01,4101,Mann,Republican,False,False,99042,0.32,0.32
+Oregon,41,02,4102,Bentz,Republican,True,True,208369,0.676,0.676
+Oregon,41,02,4102,Yetter,Democratic,False,False,99882,0.324,-0.324
+Oregon,41,03,4103,Blumenauer,Democratic,True,True,212119,0.7,-0.7
+Oregon,41,03,4103,Harbour,Republican,False,False,79766,0.263,0.263
+Oregon,41,03,4103,Delk,,False,False,10982,0.036,0.036
+Oregon,41,04,4104,Hoyle,Democratic,True,False,171372,0.506,-0.506
+Oregon,41,04,4104,Skarlatos,Republican,False,False,146055,0.431,0.431
+Oregon,41,04,4104,Leatherberry,,False,False,9052,0.027,0.027
+Oregon,41,04,4104,Howard,,False,False,6075,0.018,0.018
+Oregon,41,04,4104,Beilstein,,False,False,6033,0.018,0.018
+Oregon,41,05,4105,Chavez-DeRemer,Republican,True,False,178813,0.51,0.51
+Oregon,41,05,4105,McLeod-Skinner,Democratic,False,False,171514,0.49,-0.49
+Oregon,41,06,4106,Salinas,Democratic,True,False,147156,0.501,-0.501
+Oregon,41,06,4106,Erickson,Republican,False,False,139946,0.476,0.476
+Oregon,41,06,4106,McFarland,,False,False,6762,0.023,0.023
+Pennsylvania,42,01,4201,Fitzpatrick,Republican,True,True,201567,0.549,0.549
+Pennsylvania,42,01,4201,Ehasz,Democratic,False,False,165796,0.451,-0.451
+Pennsylvania,42,02,4202,Boyle,Democratic,True,True,141229,0.757,-0.757
+Pennsylvania,42,02,4202,Bashir,Republican,False,False,45454,0.243,0.243
+Pennsylvania,42,03,4203,Evans,Democratic,True,True,251116,0.951,-0.951
+Pennsylvania,42,03,4203,Hoeppner,,False,False,12820,0.049,0.049
+Pennsylvania,42,04,4204,Dean,Democratic,True,True,224799,0.613,-0.613
+Pennsylvania,42,04,4204,Nascimento,Republican,False,False,141986,0.387,0.387
+Pennsylvania,42,05,4205,Scanlon,Democratic,True,True,205128,0.651,-0.651
+Pennsylvania,42,05,4205,Galluch,Republican,False,False,110058,0.349,0.349
+Pennsylvania,42,06,4206,Houlahan,Democratic,True,True,190386,0.583,-0.583
+Pennsylvania,42,06,4206,Ciarrocchi,Republican,False,False,136097,0.417,0.417
+Pennsylvania,42,07,4207,Wild,Democratic,True,True,151358,0.51,-0.51
+Pennsylvania,42,07,4207,Scheller,Republican,False,False,145523,0.49,0.49
+Pennsylvania,42,08,4208,Cartwright,Democratic,True,True,146502,0.512,-0.512
+Pennsylvania,42,08,4208,Bognet,Republican,False,False,139468,0.488,0.488
+Pennsylvania,42,09,4209,Meuser,Republican,True,True,208413,0.693,0.693
+Pennsylvania,42,09,4209,Waldman,Democratic,False,False,92258,0.307,-0.307
+Pennsylvania,42,10,4210,Perry,Republican,True,True,168810,0.539,0.539
+Pennsylvania,42,10,4210,Daniels,Democratic,False,False,144161,0.461,-0.461
+Pennsylvania,42,11,4211,Smucker,Republican,True,True,194392,0.616,0.616
+Pennsylvania,42,11,4211,Hollister,Democratic,False,False,121089,0.384,-0.384
+Pennsylvania,42,12,4212,Lee,Democratic,True,False,184674,0.562,-0.562
+Pennsylvania,42,12,4212,Doyle,Republican,False,False,143846,0.438,0.438
+Pennsylvania,42,13,4213,Joyce,Republican,True,True,0,1.0,1.0
+Pennsylvania,42,14,4214,Reschenthaler,Republican,True,True,0,1.0,1.0
+Pennsylvania,42,15,4215,Thompson,Republican,True,True,213818,0.7,0.7
+Pennsylvania,42,15,4215,Molesevich,Democratic,False,False,91670,0.3,-0.3
+Pennsylvania,42,16,4216,Kelly,Republican,True,True,190064,0.594,0.594
+Pennsylvania,42,16,4216,Pastore,Democratic,False,False,130003,0.406,-0.406
+Pennsylvania,42,17,4217,Deluzio,Democratic,True,False,193393,0.534,-0.534
+Pennsylvania,42,17,4217,Shaffer,Republican,False,False,168902,0.466,0.466
+Rhode Island,44,01,4401,Cicilline,Democratic,True,True,99802,0.641,-0.641
+Rhode Island,44,01,4401,Waters,Republican,False,False,55909,0.359,0.359
+Rhode Island,44,02,4402,Magaziner,Democratic,True,False,100919,0.505,-0.505
+Rhode Island,44,02,4402,Fung,Republican,False,False,93637,0.468,0.468
+Rhode Island,44,02,4402,Gilbert,,False,False,5454,0.027,0.027
+South Carolina,45,01,4501,Mace,Republican,True,True,153757,0.565,0.565
+South Carolina,45,01,4501,Andrews,Democratic,False,False,115796,0.425,-0.425
+South Carolina,45,01,4501,Oddo,,False,False,2634,0.01,0.01
+South Carolina,45,02,4502,Wilson,Republican,True,True,147699,0.601,0.601
+South Carolina,45,02,4502,Larkins,Democratic,False,False,98081,0.399,-0.399
+South Carolina,45,03,4503,Duncan,Republican,True,True,0,1.0,1.0
+South Carolina,45,04,4504,Timmons,Republican,True,True,0,1.0,1.0
+South Carolina,45,05,4505,Norman,Republican,True,True,154725,0.64,0.64
+South Carolina,45,05,4505,Hundley,Democratic,False,False,83299,0.345,-0.345
+South Carolina,45,05,4505,Gaither,,False,False,3547,0.015,0.015
+South Carolina,45,06,4506,Clyburn,Democratic,True,True,130923,0.621,-0.621
+South Carolina,45,06,4506,Buckner,Republican,False,False,79879,0.379,0.379
+South Carolina,45,07,4507,Fry,Republican,True,False,164440,0.649,0.649
+South Carolina,45,07,4507,Scott,Democratic,False,False,89030,0.351,-0.351
+South Dakota,46,00,4600,Dusty Johnson,Republican,True,True,253786,0.774,0.774
+South Dakota,46,00,4600,Collin Duprel,Libertarian,False,False,74010,0.226,0.226
+Tennessee,47,01,4701,Harshbarger,Republican,True,True,147253,0.783,0.783
+Tennessee,47,01,4701,Parsons,Democratic,False,False,37032,0.197,-0.197
+Tennessee,47,01,4701,Baker,,False,False,2466,0.013,0.013
+Tennessee,47,01,4701,Makrom,,False,False,1245,0.007,0.007
+Tennessee,47,02,4702,Burchett,Republican,True,True,141041,0.679,0.679
+Tennessee,47,02,4702,Harmon,Democratic,False,False,66637,0.321,-0.321
+Tennessee,47,03,4703,Fleischmann,Republican,True,True,136193,0.683,0.683
+Tennessee,47,03,4703,Gorman,Democratic,False,False,60250,0.302,-0.302
+Tennessee,47,03,4703,Tyler,,False,False,1731,0.009,0.009
+Tennessee,47,03,4703,Rumba,,False,False,1117,0.006,0.006
+Tennessee,47,04,4704,DesJarlais,Republican,True,True,122336,0.706,0.706
+Tennessee,47,04,4704,Steele,Democratic,False,False,44628,0.257,-0.257
+Tennessee,47,04,4704,Winton,,False,False,2834,0.016,0.016
+Tennessee,47,04,4704,Benson,,False,False,1804,0.01,0.01
+Tennessee,47,04,4704,Jones,,False,False,708,0.004,0.004
+Tennessee,47,04,4704,Chandler,,False,False,584,0.003,0.003
+Tennessee,47,04,4704,Magyer,,False,False,454,0.003,0.003
+Tennessee,47,05,4705,Ogles,Republican,True,False,123358,0.559,0.559
+Tennessee,47,05,4705,Campbell,Democratic,False,False,93375,0.423,-0.423
+Tennessee,47,05,4705,Brantley,,False,False,2083,0.009,0.009
+Tennessee,47,05,4705,Cooper,,False,False,1125,0.005,0.005
+Tennessee,47,05,4705,Shannon,,False,False,846,0.004,0.004
+Tennessee,47,06,4706,Rose,Republican,True,True,129311,0.663,0.663
+Tennessee,47,06,4706,Cooper,Democratic,False,False,65598,0.337,-0.337
+Tennessee,47,07,4707,Green,Republican,True,True,108358,0.6,0.6
+Tennessee,47,07,4707,Kelly,Democratic,False,False,68897,0.381,-0.381
+Tennessee,47,07,4707,Hooper,,False,False,3423,0.019,0.019
+Tennessee,47,08,4708,Kustoff,Republican,True,True,156628,0.739,0.739
+Tennessee,47,08,4708,Williams,Democratic,False,False,51826,0.244,-0.244
+Tennessee,47,08,4708,Hart,,False,False,2532,0.012,0.012
+Tennessee,47,08,4708,Henley,,False,False,1062,0.005,0.005
+Tennessee,47,09,4709,Cohen,Democratic,True,True,93755,0.7,-0.7
+Tennessee,47,09,4709,Bergmann,Republican,False,False,35112,0.262,0.262
+Tennessee,47,09,4709,Flinn,,False,False,3348,0.025,0.025
+Tennessee,47,09,4709,Clark,,False,False,1160,0.009,0.009
+Tennessee,47,09,4709,Cook,,False,False,484,0.004,0.004
+Texas,48,01,4801,Moran,Republican,True,False,183005,0.781,0.781
+Texas,48,01,4801,Jefferson,Democratic,False,False,51288,0.219,-0.219
+Texas,48,02,4802,Crenshaw,Republican,True,True,151369,0.659,0.659
+Texas,48,02,4802,Fulford,Democratic,False,False,78216,0.341,-0.341
+Texas,48,03,4803,Self,Republican,True,False,163945,0.606,0.606
+Texas,48,03,4803,Srivastava,Democratic,False,False,99764,0.369,-0.369
+Texas,48,03,4803,Claytor,Libertarian,False,False,6890,0.025,0.025
+Texas,48,04,4804,Fallon,Republican,True,True,170467,0.668,0.668
+Texas,48,04,4804,Omere,Democratic,False,False,78866,0.309,-0.309
+Texas,48,04,4804,Simmons,Libertarian,False,False,6035,0.024,0.024
+Texas,48,05,4805,Gooden,Republican,True,True,135990,0.641,0.641
+Texas,48,05,4805,Hill,Democratic,False,False,71770,0.338,-0.338
+Texas,48,05,4805,Hale,Libertarian,False,False,4296,0.02,0.02
+Texas,48,06,4806,Ellzey,Republican,True,True,0,1.0,1.0
+Texas,48,07,4807,Fletcher,Democratic,True,True,115390,0.638,-0.638
+Texas,48,07,4807,Teague,Republican,False,False,65593,0.362,0.362
+Texas,48,08,4808,Luttrell,Republican,True,False,152797,0.681,0.681
+Texas,48,08,4808,Jones,Democratic,False,False,68485,0.305,-0.305
+Texas,48,08,4808,Eriksen,Libertarian,False,False,3117,0.014,0.014
+Texas,48,09,4809,Green,Democratic,True,True,124893,0.767,-0.767
+Texas,48,09,4809,Leon,Republican,False,False,38019,0.233,0.233
+Texas,48,10,4810,McCaul,Republican,True,True,158784,0.633,0.633
+Texas,48,10,4810,Nuno,Democratic,False,False,86123,0.343,-0.343
+Texas,48,10,4810,Kelsey,Libertarian,False,False,6051,0.024,0.024
+Texas,48,11,4811,Pfluger,Republican,True,True,0,1.0,1.0
+Texas,48,12,4812,Granger,Republican,True,True,152732,0.643,0.643
+Texas,48,12,4812,Hunt,Democratic,False,False,84879,0.357,-0.357
+Texas,48,13,4813,Jackson,Republican,True,True,161562,0.754,0.754
+Texas,48,13,4813,Brown,Democratic,False,False,52739,0.246,-0.246
+Texas,48,14,4814,Weber,Republican,True,True,149317,0.686,0.686
+Texas,48,14,4814,Williams,Democratic,False,False,68386,0.314,-0.314
+Texas,48,15,4815,De La Cruz,Republican,True,False,80869,0.533,0.533
+Texas,48,15,4815,Vallejo,Democratic,False,False,67913,0.448,-0.448
+Texas,48,15,4815,Leone,Libertarian,False,False,2808,0.019,0.019
+Texas,48,16,4816,Escobar,Democratic,True,True,94266,0.633,-0.633
+Texas,48,16,4816,Armendariz-Jackson,Republican,False,False,54697,0.367,0.367
+Texas,48,17,4817,Sessions,Republican,True,True,144183,0.665,0.665
+Texas,48,17,4817,Woods,Democratic,False,False,72647,0.335,-0.335
+Texas,48,18,4818,Jackson Lee,Democratic,True,True,109968,0.707,-0.707
+Texas,48,18,4818,Montiel,Republican,False,False,40761,0.262,0.262
+Texas,48,18,4818,Duncan,,False,False,2753,0.018,0.018
+Texas,48,18,4818,Kurtz,Libertarian,False,False,2044,0.013,0.013
+Texas,48,19,4819,Arrington,Republican,True,True,152042,0.804,0.804
+Texas,48,19,4819,Lewis,,False,False,37158,0.196,0.196
+Texas,48,20,4820,Castro,Democratic,True,True,114822,0.684,-0.684
+Texas,48,20,4820,Sinclair,Republican,False,False,53059,0.316,0.316
+Texas,48,21,4821,Roy,Republican,True,True,206786,0.629,0.629
+Texas,48,21,4821,Zapata,Democratic,False,False,121936,0.371,-0.371
+Texas,48,22,4822,Nehls,Republican,True,True,149757,0.623,0.623
+Texas,48,22,4822,Jordan,Democratic,False,False,85440,0.355,-0.355
+Texas,48,22,4822,LeBlanc,Libertarian,False,False,5362,0.022,0.022
+Texas,48,23,4823,Gonzales,Republican,True,True,116172,0.559,0.559
+Texas,48,23,4823,Lira,Democratic,False,False,80430,0.387,-0.387
+Texas,48,23,4823,Lopez,,False,False,11123,0.054,0.054
+Texas,48,24,4824,Van Duyne,Republican,True,True,177121,0.598,0.598
+Texas,48,24,4824,McDowell,Democratic,False,False,119097,0.402,-0.402
+Texas,48,25,4825,Williams,Republican,True,True,0,1.0,1.0
+Texas,48,26,4826,Burgess,Republican,True,True,183379,0.693,0.693
+Texas,48,26,4826,Kolls,Libertarian,False,False,81208,0.307,0.307
+Texas,48,27,4827,Cloud,Republican,True,True,133286,0.645,0.645
+Texas,48,27,4827,Perez,Democratic,False,False,73370,0.355,-0.355
+Texas,48,28,4828,Cuellar,Democratic,True,True,93393,0.566,-0.566
+Texas,48,28,4828,Garcia,Republican,False,False,71564,0.434,0.434
+Texas,48,29,4829,Garcia,Democratic,True,True,71379,0.714,-0.714
+Texas,48,29,4829,Schafranek,Republican,False,False,28635,0.286,0.286
+Texas,48,30,4830,Crockett,Democratic,True,False,134011,0.75,-0.75
+Texas,48,30,4830,Rodgers,Republican,False,False,39022,0.218,0.218
+Texas,48,30,4830,Manning,,False,False,3807,0.021,0.021
+Texas,48,30,4830,Gray,Libertarian,False,False,1862,0.01,0.01
+Texas,48,31,4831,Carter,Republican,True,True,0,1.0,1.0
+Texas,48,32,4832,Allred,Democratic,True,True,115350,0.653,-0.653
+Texas,48,32,4832,Swad,Republican,False,False,61232,0.347,0.347
+Texas,48,33,4833,Veasey,Democratic,True,True,81764,0.72,-0.72
+Texas,48,33,4833,Gillespie,Republican,False,False,29099,0.256,0.256
+Texas,48,33,4833,Ashby,Libertarian,False,False,2736,0.024,0.024
+Texas,48,34,4834,Gonzalez,Democratic,True,True,70759,0.527,-0.527
+Texas,48,34,4834,Flores,Republican,False,True,59404,0.443,0.443
+Texas,48,34,4834,Royal,,False,False,4076,0.03,0.03
+Texas,48,35,4835,Casar,Democratic,True,False,129084,0.726,-0.726
+Texas,48,35,4835,McQueen,Republican,False,False,48831,0.274,0.274
+Texas,48,36,4836,Babin,Republican,True,True,145142,0.695,0.695
+Texas,48,36,4836,Haire,Democratic,False,False,63697,0.305,-0.305
+Texas,48,37,4837,Doggett,Democratic,True,True,219149,0.768,-0.768
+Texas,48,37,4837,Garcia Sharon,Republican,False,False,59879,0.21,0.21
+Texas,48,37,4837,Patterson,Libertarian,False,False,6329,0.022,0.022
+Texas,48,38,4838,Hunt,Republican,True,False,162992,0.63,0.63
+Texas,48,38,4838,Klussmann,Democratic,False,False,91768,0.355,-0.355
+Texas,48,38,4838,Dejean,,False,False,3953,0.015,0.015
+Utah,49,01,4901,Moore,Republican,True,True,178434,0.67,0.67
+Utah,49,01,4901,Jones,Democratic,False,False,87986,0.33,-0.33
+Utah,49,02,4902,Stewart,Republican,True,True,154883,0.597,0.597
+Utah,49,02,4902,Mitchell,Democratic,False,False,88224,0.34,-0.34
+Utah,49,02,4902,McFarland,,False,False,8622,0.033,0.033
+Utah,49,02,4902,Easley,,False,False,7670,0.03,0.03
+Utah,49,03,4903,Curtis,Republican,True,True,182497,0.644,0.644
+Utah,49,03,4903,Wright,Democratic,False,False,83687,0.295,-0.295
+Utah,49,03,4903,Stoddard,Libertarian,False,False,8287,0.029,0.029
+Utah,49,03,4903,Cummings,,False,False,4874,0.017,0.017
+Utah,49,03,4903,Heineman,,False,False,4035,0.014,0.014
+Utah,49,04,4904,Owens,Republican,True,True,155110,0.611,0.611
+Utah,49,04,4904,McDonald,Democratic,False,False,82181,0.324,-0.324
+Utah,49,04,4904,Walker,,False,False,16740,0.066,0.066
+Vermont,50,00,5000,Becca Balint,Democratic,True,False,175484,0.627,-0.627
+Vermont,50,00,5000,Liam Madden,Republican,False,False,78167,0.279,0.279
+Vermont,50,00,5000,Ericka Redic,Libertarian,False,False,12563,0.045,0.045
+Vermont,50,00,5000,Matt Druzba,,False,False,5686,0.02,0.02
+Vermont,50,00,5000,Luke Talbot,,False,False,4412,0.016,0.016
+Vermont,50,00,5000,Adam Ortiz,,False,False,3370,0.012,0.012
+Virginia,51,01,5101,Wittman,Republican,True,True,197789,0.565,0.565
+Virginia,51,01,5101,Jones,Democratic,False,False,148884,0.425,-0.425
+Virginia,51,01,5101,Foster,,False,False,3391,0.01,0.01
+Virginia,51,02,5102,Kiggans,Republican,True,False,153328,0.517,0.517
+Virginia,51,02,5102,Luria,Democratic,False,True,143219,0.483,-0.483
+Virginia,51,03,5103,Scott,Democratic,True,True,139659,0.674,-0.674
+Virginia,51,03,5103,Namkung,Republican,False,False,67668,0.326,0.326
+Virginia,51,04,5104,McEachin,Democratic,True,True,159912,0.644,-0.644
+Virginia,51,04,5104,Benjamin,Republican,False,False,88587,0.356,0.356
+Virginia,51,05,5105,Good,Republican,True,True,177191,0.577,0.577
+Virginia,51,05,5105,Throneburg,Democratic,False,False,129996,0.423,-0.423
+Virginia,51,06,5106,Cline,Republican,True,True,173352,0.645,0.645
+Virginia,51,06,5106,Lewis,Democratic,False,False,95410,0.355,-0.355
+Virginia,51,07,5107,Spanberger,Democratic,True,True,143357,0.523,-0.523
+Virginia,51,07,5107,Vega,Republican,False,False,130586,0.477,0.477
+Virginia,51,08,5108,Beyer,Democratic,True,True,197760,0.737,-0.737
+Virginia,51,08,5108,Lipsman,Republican,False,False,66589,0.248,0.248
+Virginia,51,08,5108,Fikre,,False,False,4078,0.015,0.015
+Virginia,51,09,5109,Griffith,Republican,True,True,182207,0.734,0.734
+Virginia,51,09,5109,DeVaughan,Democratic,False,False,66027,0.266,-0.266
+Virginia,51,10,5110,Wexton,Democratic,True,True,157405,0.533,-0.533
+Virginia,51,10,5110,Cao,Republican,False,False,138163,0.467,0.467
+Virginia,51,11,5111,Connolly,Democratic,True,True,193190,0.669,-0.669
+Virginia,51,11,5111,Myles,Republican,False,False,95634,0.331,0.331
+Washington,53,01,5301,DelBene,Democratic,True,True,181992,0.636,-0.636
+Washington,53,01,5301,Cavaleri,Republican,False,False,104329,0.364,0.364
+Washington,53,02,5302,Larsen,Democratic,True,True,202980,0.602,-0.602
+Washington,53,02,5302,Matthews,Republican,False,False,134335,0.398,0.398
+Washington,53,03,5303,Gluesenkamp Perez,Democratic,True,False,160314,0.504,-0.504
+Washington,53,03,5303,Kent,Republican,False,False,157685,0.496,0.496
+Washington,53,04,5304,Newhouse,Republican,True,True,150619,0.681,0.681
+Washington,53,04,5304,White,Democratic,False,False,70710,0.319,-0.319
+Washington,53,05,5305,McMorris Rodgers,Republican,True,True,188648,0.597,0.597
+Washington,53,05,5305,Hill,Democratic,False,False,127585,0.403,-0.403
+Washington,53,06,5306,Kilmer,Democratic,True,True,208710,0.601,-0.601
+Washington,53,06,5306,Kreiselmaier,Republican,False,False,138754,0.399,0.399
+Washington,53,07,5307,Jayapal,Democratic,True,True,295998,0.857,-0.857
+Washington,53,07,5307,Moon,Republican,False,False,49207,0.143,0.143
+Washington,53,08,5308,Schrier,Democratic,True,True,179003,0.534,-0.534
+Washington,53,08,5308,Larkin,Republican,False,False,155976,0.466,0.466
+Washington,53,09,5309,Smith,Democratic,True,True,171746,0.717,-0.717
+Washington,53,09,5309,Basler,Republican,False,False,67631,0.283,0.283
+Washington,53,10,5310,Strickland,Democratic,True,True,152544,0.571,-0.571
+Washington,53,10,5310,Swank,Republican,False,False,114777,0.429,0.429
+West Virginia,54,01,5401,Miller,Republican,True,True,151511,0.667,0.667
+West Virginia,54,01,5401,Watson,Democratic,False,False,65428,0.288,-0.288
+West Virginia,54,01,5401,Fox-Spencer,,False,False,10257,0.045,0.045
+West Virginia,54,02,5402,Mooney,Republican,True,True,160493,0.656,0.656
+West Virginia,54,02,5402,Wendell,Democratic,False,False,84278,0.344,-0.344
+Wisconsin,55,01,5501,Steil,Republican,True,True,162566,0.541,0.541
+Wisconsin,55,01,5501,Roe,Democratic,False,False,135791,0.452,-0.452
+Wisconsin,55,01,5501,Barman,,False,False,2247,0.007,0.007
+Wisconsin,55,02,5502,Pocan,Democratic,True,True,268740,0.71,-0.71
+Wisconsin,55,02,5502,Olsen,Republican,False,False,101889,0.269,0.269
+Wisconsin,55,02,5502,Alexander,,False,False,7689,0.02,0.02
+Wisconsin,55,03,5503,Van Orden,Republican,True,False,164633,0.518,0.518
+Wisconsin,55,03,5503,Pfaff,Democratic,False,False,152939,0.482,-0.482
+Wisconsin,55,04,5504,Moore,Democratic,True,True,192226,0.754,-0.754
+Wisconsin,55,04,5504,Rogers,Republican,False,False,57660,0.226,0.226
+Wisconsin,55,04,5504,Raymond,,False,False,5165,0.02,0.02
+Wisconsin,55,05,5505,Fitzgerald,Republican,True,True,243734,0.644,0.644
+Wisconsin,55,05,5505,Van Someren,Democratic,False,False,134572,0.356,-0.356
+Wisconsin,55,06,5506,Grothman,Republican,True,True,0,1.0,1.0
+Wisconsin,55,07,5507,Tiffany,Republican,True,True,209270,0.619,0.619
+Wisconsin,55,07,5507,Ausman,Democratic,False,False,128895,0.381,-0.381
+Wisconsin,55,08,5508,Gallagher,Republican,True,True,223806,0.735,0.735
+Wisconsin,55,08,5508,Boucher,,False,False,48757,0.16,0.16
+Wisconsin,55,08,5508,VandenPlas,Libertarian,False,False,32043,0.105,0.105
+Wyoming,56,00,5600,Harriet Hageman,Republican,True,False,132215,0.698,0.698
+Wyoming,56,00,5600,Lynnette GreyBull,Democratic,False,False,47241,0.249,-0.249
+Wyoming,56,00,5600,Richard Brubaker,Libertarian,False,False,5420,0.029,0.029
+Wyoming,56,00,5600,Marissa Selvig,,False,False,4503,0.024,0.024
